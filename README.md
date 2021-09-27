@@ -42,9 +42,9 @@ Who are committers:
       </sub>
     </td>
     <td align="center">
-      <img src="https://avatars3.githubusercontent.com/u/65639438" width="100px;" /><br>
+      <img src="https://avatars3.githubusercontent.com/u/44753392" width="100px;" /><br>
       <sub>
-        <b>Renan Rossi</b>
+        <b>matheus633uchiha</b>
       </sub>
     </td>
   </tr>
